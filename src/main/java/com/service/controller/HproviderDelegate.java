@@ -10,35 +10,35 @@ public class HproviderDelegate {
     public Integer add(Integer a,Integer b){
 
         // Do Some Magic Here!
-        return null;
+        return a+b;
     };
 
 
     public String sayHei( String name){
 
         // Do Some Magic Here!
-        return null;
+        return "sayHei"+name;
     };
 
 
     public String sayHello(String name){
 
         // Do Some Magic Here!
-        return null;
+        return "sayHello"+name;
     };
 
 
     public String sayHi(String name){
 
         // Do Some Magic Here!
-        return null;
+        return "sayHi"+name;
     };
 
 
     public String saySomething(String prefix,Person user){
 
         // Do Some Magic Here!
-        return null;
+        return "say"+prefix;
     };
 
 }
