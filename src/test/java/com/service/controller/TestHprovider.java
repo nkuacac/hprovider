@@ -37,7 +37,7 @@ public class TestHprovider {
     @Test
     public void testsayHei(){
 
-        String expactReturnValue = null; // You should put the expect String type value here.
+        String expactReturnValue = "sayHei"+null; // You should put the expect String type value here.
 
         // You should put the parameter here, in such footprint: hproviderImpl.sayHei(String name)
         String returnValue = hproviderImpl.sayHei(null);
@@ -49,7 +49,7 @@ public class TestHprovider {
     @Test
     public void testsayHello(){
 
-        String expactReturnValue = null; // You should put the expect String type value here.
+        String expactReturnValue = "sayHello"+null; // You should put the expect String type value here.
 
         // You should put the parameter here, in such footprint: hproviderImpl.sayHello(String name)
         String returnValue = hproviderImpl.sayHello(null);
@@ -61,7 +61,7 @@ public class TestHprovider {
     @Test
     public void testsayHi(){
 
-        String expactReturnValue = null; // You should put the expect String type value here.
+        String expactReturnValue = "sayHi"+null; // You should put the expect String type value here.
 
         // You should put the parameter here, in such footprint: hproviderImpl.sayHi(String name)
         String returnValue = hproviderImpl.sayHi(null);
@@ -73,7 +73,7 @@ public class TestHprovider {
     @Test
     public void testsaySomething(){
 
-        String expactReturnValue = null; // You should put the expect String type value here.
+        String expactReturnValue = "say"+null; // You should put the expect String type value here.
 
         // You should put the parameter here, in such footprint: hproviderImpl.saySomething(String prefix, Person user)
         String returnValue = hproviderImpl.saySomething(null, null);
