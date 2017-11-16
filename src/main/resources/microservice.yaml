@@ -1,4 +1,4 @@
-APPLICATION_ID: springmvctest
+APPLICATION_ID: basictest
 service_description:
   name: hprovider
   version: 0.0.1
